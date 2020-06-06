@@ -1,3 +1,12 @@
 {
-  "signedContributors": []
+  "signedContributors": [
+    {
+      "id": 47404136,
+      "name": "cliffchapmanrbx",
+      "pullRequestNo": 5,
+      "comment_id": 639917981,
+      "created_at": "2020-06-06T00:34:48Z",
+      "repoId": 269235882
+    }
+  ]
 }
